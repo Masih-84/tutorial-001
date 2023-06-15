@@ -1,3 +1,11 @@
 hi in the name
 
+<<<<<<< HEAD
 one two
+=======
+jhgjhgjhg
+
+
+
+
+>>>>>>> fix_res
